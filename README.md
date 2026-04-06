@@ -29,7 +29,7 @@ avito-api-tests/
 ├── requirements.txt # Зависимости Python  
 ├── TESTCASES.md # Документация тест-кейсов  
 ├── BUGS.md # Отчет о найденных багах  
-├── task1_bugs.txt # Баги найденные в первом задании
+├── task1_bugs.txt # Баги найденные в первом задании  
 └── README.md  
 
 
